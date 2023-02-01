@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(252, 249, 249);
+    margin: 75px;
+    padding: 30px;
+    border: 1px solid;
+    box-shadow: 2px 2px 7px #8888;
+}
+.Home-content .text1{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    box-sizing: 250px;
+
+}
+.nav{
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+    
+}
+a{
+    padding: 15px;
+    color: rgb(249, 246, 246);
+    display: flex;
+    justify-content: space-around;
+}
+a:hover{
+    color: rgb(127, 142, 224);
+}
+nav{
+   
+    padding: 25px;
+    margin: 15px;
+    margin-top: 25px;
+    border: 1px solid;
+    background-color: black;
+}
+.header{
+    box-sizing: 75px;
+    text-align: center;
+    margin: 25px;
+    padding: 15px;
+    border: 1px solid;
+}
+.max-width{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 45px;
+}
+img{
+    width: 150px;
+    
+}
+.photo{
+    display: flex;
+    border: none;
+    justify-content: flex-end;
+}
+.photo .slide{
+    justify-content: flex-end;
+}
+.link{
+    font-size: 25px;
+    color: black;
+}
+p{
+    font-size: 25px;
+}
+.text{
+    font-size: 40px;
+}
+.subtitle{
+    font-size: 5px;
+}
